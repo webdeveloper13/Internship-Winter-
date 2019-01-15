@@ -1,0 +1,29 @@
+body  {
+   margin:0px;
+   font:12pt verdana;
+   background-color:#eeeeee;
+}
+h1 {
+   margin:0px;
+   font:700 30px arial;
+   background-color:maroon;
+   color:white;
+}
+
+
+h2 {
+   margin:0px;
+   font:700 24px arial;
+   color:blanchedalmond;
+}
+
+h4 {
+  font:700 14pt arial;color:red;
+}
+table {
+  margin:0px}
+
+th  { font:700 12pt verdana;
+      color:white;background-color:yellowgreen}
+
+
